@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Doubao Raw Image Selector
-// @namespace    doubao-raw-selector
-// @version      5.1.0
-// @description  Capture Doubao raw image URLs and download only Alt-click selected images.
-// @author       Codex
+// @name         豆包无水印图片选择下载
+// @namespace    funsunai/doubao-raw-image-downloader
+// @version      1.0.0
+// @description  抓取豆包无水印原图，按住 Alt 选择图片并下载选中项。
+// @author       funsunai
 // @match        https://www.doubao.com/*
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
